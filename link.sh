@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# https://github.com/uzulla/link_brew_and_phpenv
 
 brew -h > /dev/null 2>&1 || exit 1
 phpenv -h > /dev/null 2>&1 || exit 1
