@@ -8,3 +8,9 @@ link brew's php to `phpenv/versions/brew`.
 $ curl -s "https://raw.githubusercontent.com/uzulla/link_brew_and_phpenv/main/link.sh" | bash
 ```
 
+## required.
+
+- brew
+- `brew install php`
+- phpenv
+
